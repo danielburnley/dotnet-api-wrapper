@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/WebAPI.csproj": {}
+  },
+  "projects": {
+    "/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/WebAPI.csproj",
+        "packagesPath": "/home/dan/.nuget/packages/",
+        "outputPath": "/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/dan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

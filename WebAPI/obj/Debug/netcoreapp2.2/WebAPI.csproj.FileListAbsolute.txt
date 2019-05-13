@@ -1,0 +1,15 @@
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.dll.config
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.deps.json
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.json
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.runtimeconfig.dev.json
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.dll
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/bin/Debug/netcoreapp2.2/WebAPI.pdb
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csprojAssemblyReference.cache
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.csproj.CoreCompileInputs.cache
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorAssemblyInfo.cache
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorAssemblyInfo.cs
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfoInputs.cache
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.AssemblyInfo.cs
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.RazorTargetAssemblyInfo.cache
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.dll
+/home/dan/madetech/homes-england/dot-net-wrapper/WebAPI/obj/Debug/netcoreapp2.2/WebAPI.pdb
